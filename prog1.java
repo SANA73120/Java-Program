@@ -15,8 +15,8 @@ class rectangle{
 }
 class main{
     public static void main(String[] args){
-        rectangle r=new rectangle(2,4);
-	r.area();
-	r.perimeter();
+        rectangle rect=new rectangle(2,4);
+	rect.area();
+	rect.perimeter();
     }
 }
